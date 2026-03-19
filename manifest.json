@@ -1,9 +1,11 @@
 {
   "name": "Stringer",
-  "id": "string-variable-selector",
+  "id": "1616444412595038061",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
 "editorType": ["figma"],
-"permissions": ["teamlibrary"]
+"permissions": ["teamlibrary"],
+"networkAccess": "none",
+"documentAccess": "dynamic-page"
 }
