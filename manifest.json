@@ -1,0 +1,9 @@
+{
+  "name": "String Variable Selector",
+  "id": "string-variable-selector",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+"editorType": ["figma"],
+"permissions": ["teamlibrary"]
+}
