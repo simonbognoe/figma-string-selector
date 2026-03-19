@@ -1,5 +1,5 @@
 {
-  "name": "String Variable Selector",
+  "name": "Stringer",
   "id": "string-variable-selector",
   "api": "1.0.0",
   "main": "dist/code.js",
